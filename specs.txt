@@ -1,0 +1,148 @@
+PRIMELISTINGS SPECS:
+
+Fonts: Lato Bold, Lato Regular, Lato Light, Lato Italic
+
+Font sizes:
+<p>  14px
+<h6> 12px
+<h5> 14px
+<h4> 16px
+<h3> 18px
+<h2> 24px
+<h1> 36px
+
+Font color: 
+gray:  7c7c7c
+blue:  3ec4f9
+black: 1f1f1f
+footer gray: 828282
+
+Color scheme:
+Dark Blue: 103547
+Blue :  37b0e9
+White:  ffffff
+Black:  1f1f1f
+Gray:   7c7c7c
+Yellow: e5dc33
+
+Main Navigation (About, Location, Contact) - Lato Regular, 12px
+
+-------------------------------------------
+
+About Page:
+
+"About" - Lato Regular, 24px
+White bar - white solid 4px
+Header Tagline - Lato Bold, 36px
+
+About Navigation - Lato Regular, 12px
+Title (Who we are, M&V, Founders) - Lato Bold, 24px
+Descriptions - Lato Regular, 14px
+Statistics number - Lato Bold, 24px
+Statistics description - Lato Light, 12px
+
+-------------------------------------------
+
+Individual Page (Indiv Property Page)
+
+Page Navigation - Lato Regular, 12px
+"Return" - Lato Bold, 18px
+Property Name - Lato Bold, 24px
+Titles (Desccription, Gallery etc) - Lato Bold, 18px
+Description: Lato Regular, 14px
+
+"See all photos" - Lato Bold, 14px
+
+Sidebar of Individual Page:
+Property Name - Lato Regular, 18px
+Property type, Location etc - Lato Regular, 14px
+
+Contact us - Lato Bold, 18px
+Contact us contents - Lato Regular, 14px 
+
+-------------------------------------------
+
+Location Page
+
+"Location" - Lato Regular, 24px
+White bar - white solid 4px
+Header Tagline - Lato Bold, 36px
+
+Location Title - Lato Bol, 24px
+"See available properties"(hover) - Lato Bold, 24px
+
+-------------------------------------------
+
+Map Page
+
+"Filter" - Lato Bold, 18px
+Location Title - Lato Bold, 18px
+Map & List Toggle - Lato Bold, 14px
+
+Filter contents - Lato Bold, 14px
+
+Property Name Tooltip - Lato Bold, 18px
+Property Type Tooltip - Lato Italic, 14px
+
+-------------------------------------------
+
+Location with Properties Page
+
+Location Title - Lato Bold, 24px
+Contents - Lato Regular, 14px
+Property Name - Lato Bold, 18px
+Property Type - Lato Italic, 14px
+"View all" button - Lato Bold, 14px
+
+-------------------------------------------
+
+Filter and Search Results
+
+"PROPERTIES | CONDOMINIUM" - Lato Bold, 24px
+Property Name - Lato Bold, 18px
+Property Type - Lato Italic, 14px
+
+-------------------------------------------
+
+Contact Page
+
+"Contact" - Lato Regular, 24px
+White bar - white solid 4px
+Header Tagline - Lato Bold, 36px
+
+"Got inquiry?..." - Lato Italic, 14px
+Full name, Email add etc - Lato Regular, 14px
+"Send" - Lato Bold, 18px
+
+Office location - Lato Bold, 24px
+Details - Lato Regular, 14px
+
+-------------------------------------------
+
+Footer
+
+Title - Lato Regular, 14px
+Sub title - Lato Regular 12px
+
+Copyright - Lato Regular, 10px
+
+-------------------------------------------
+
+FUNCTIONALITIES:
+
+[] Search
+[] Filter
+[] Maps
+[] Follow through navigation
+[] Contact form
+
+-------------------------------------------
+
+References:
+
+About and Individual page- https://www.airbnb.com/rooms/796836 
+Footer - https://nooklyn.com/neighborhoods
+"View all cities" in Homepage - once iclick yun mag accordion lang effect niya
+Hover animations (black less opacity) - https://nooklyn.com/neighborhoods
+"View More" animation in Indiv pages - https://nooklyn.com/neighborhoods
+Map type - https://www.airbnb.com/s/manila?source=hdr&checkin=01%2F21%2F2016&checkout=01%2F29%2F2016	
